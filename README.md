@@ -15,7 +15,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that provides instant answe
 1. **JM Value Fund Direct Plan Growth**
 2. **JM Aggressive Hybrid Fund Direct Growth**
 3. **JM Flexicap Fund Direct Plan Growth**
-##**source:**
+    ## source
 1. Groww
 2. Sebi
 ## Tech Stack
@@ -25,7 +25,7 @@ A Retrieval-Augmented Generation (RAG) based chatbot that provides instant answe
 - **Scraping**: BeautifulSoup4, Requests
 - **Frontend**: HTML, CSS, JavaScript
 - **AI**: Google Gemini (optional)
-
+## disclaimer: Facts only, no advice
 ## Installation
 
 1. Clone the repository:
