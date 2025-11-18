@@ -1,0 +1,59 @@
+{
+  "scheme_key": "jm-multi-strategy-fund-direct-growth",
+  "scheme_name": "JM Flexicap Fund Direct Plan Growth",
+  "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth",
+  "fetched_at": "2025-11-18T15:51:22.089350+00:00",
+  "metadata": {
+    "plan_type": "Direct",
+    "scheme_type": "Growth",
+    "category": "Equity",
+    "sub_category": "Flexi Cap",
+    "fund_house": "JM Financial Mutual Fund",
+    "objective": "The scheme which aims to provide capital appreciation by investing primarily in equity and equity related securities of various market depending upon valuation discount or premium amongst Large / Mid & Small cap stocks, the fund will keep varying the weights to capture the value while keeping an optimum Risk / Return profile."
+  },
+  "attributes": {
+    "minimum_lumpsum_investment": {
+      "value": 1000,
+      "display": "₹1,000",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "minimum_sip_investment": {
+      "value": 100,
+      "display": "₹100",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "expense_ratio": {
+      "value": 0.54,
+      "display": "0.54%",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "exit_load": {
+      "value": "Exit load of 1%, if redeemed within 30 days.",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "riskometer": {
+      "label": "Very High",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "benchmark": {
+      "name": "BSE 500 Total Return Index",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "taxation": {
+      "summary": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    },
+    "lock_in": {
+      "applicable": false,
+      "notes": "No lock-in mentioned; scheme is not an ELSS product.",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    }
+  },
+  "documents": [
+    {
+      "type": "SID",
+      "url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doGetFundDetails=yes&type=2&mfId=30",
+      "source_url": "https://groww.in/mutual-funds/jm-multi-strategy-fund-direct-growth"
+    }
+  ]
+}
