@@ -98,12 +98,15 @@ def health():
     })
 
 if __name__ == '__main__':
-    print("=" * 80)
-    print("🚀 Starting Mutual Fund FAQ Chatbot Server")
-    print("=" * 80)
-    print("\n📍 Server running at: http://localhost:5000")
-    print("🔧 API endpoint: http://localhost:5000/api/query")
-    print("\n✨ Open your browser and visit: http://localhost:5000\n")
-    print("=" * 80)
+    import os
+    port = int(os.environ.get('PORT', 5000))
     
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    print("="*80)
+    print("🚀 Starting Mutual Fund FAQ Chatbot Server")
+    print("="*80)
+    print(f"\n📍 Server running on port: {port}")
+    print("🔧 API endpoint: /api/query")
+    print("\n✨ Visit the app in your browser\n")
+    print("="*80)
+    
+    app.run(host='0.0.0.0', port=port, debug=False)
